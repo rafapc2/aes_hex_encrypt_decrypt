@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Variables
-password="te_pass_for_privKey" #the pass for encrypted the_privkey.pem
+password="the_pass_for_privKey" #the pass for encrypted the_privkey.pem
 test_case_dir="test_case/"
 sourceFile="${1}"
 dataEncFile="data.enc.bin"
